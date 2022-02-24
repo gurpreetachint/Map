@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -31,10 +31,3 @@
     </script>
   </body>
 </html>
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
