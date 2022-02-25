@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactilename: something
+plugins:
+  - "jekyll-github-metadata"
 name: something
 title: null
