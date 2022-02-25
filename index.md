@@ -41,7 +41,7 @@ margin-top: 75px;
 const map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/gurpreetachint/cl01af2aj004v15po09nztlnd',
-center: [22.6729, 75.8577],
+center: [-22.6729, 75.8577],
 zoom: 10
 });
  
