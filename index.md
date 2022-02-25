@@ -41,8 +41,8 @@ margin-top: 75px;
 const map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/gurpreetachint/cl01af2aj004v15po09nztlnd',
-center: [-79.4512, 43.6568],
-zoom: 13
+center: [22.6729805, 75.8762302],
+zoom: 5
 });
  
 // Add the control to the map.
